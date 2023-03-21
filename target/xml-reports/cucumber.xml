@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="27.003">
-    <testcase classname="US01_User should be registered from fashion field" name="US_01_TC_01_FashionRegistry" time="15.302">
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="29.269">
+    <testcase classname="US01_User should be registered from fashion field" name="US_01_TC_01_FashionRegistry" time="15.181">
         <system-out><![CDATA[Given User visits " https://commerceos.staging.devpayever.com/registration/fashion/".passed
 Then User fills the fields..................................................passed
 And Clicks signup button....................................................passed
@@ -10,7 +10,7 @@ Then Use clicks on Get Started..............................................pass
 And Verifies following apps are present on dashboard:Transactions,Checkout,Connect,Products,Shop,Blog,Settings.passed
 ]]></system-out>
     </testcase>
-    <testcase classname="US01_User should be registered from fashion field" name="US_01_TC_02_SantanderRegistry" time="11.517">
+    <testcase classname="US01_User should be registered from fashion field" name="US_01_TC_02_SantanderRegistry" time="13.862">
         <system-out><![CDATA[Given User visits " https://commerceos.staging.devpayever.com/registration/santander/".passed
 Then User fills the fields..................................................passed
 And Clicks signup button....................................................passed
